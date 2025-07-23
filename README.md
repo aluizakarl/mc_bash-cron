@@ -62,7 +62,7 @@ Este curso tem como objetivo apresentar os fundamentos do terminal Linux e ensin
 ## 🚀 Como Usar este Material
 
 1. Clone o repositório:
-  ` git clone https://github.com/seu-usuario/bash-cron-minicurso.git`
+  git clone https://github.com/seu-usuario/bash-cron-minicurso.git
 
 2. Explore os diretórios:
 
@@ -71,6 +71,7 @@ Este curso tem como objetivo apresentar os fundamentos do terminal Linux e ensin
     materiais/: apostilas e slides
 
 3. Teste os scripts com:
+```bash
 chmod +x nome_do_script.sh
 ./nome_do_script.sh
 
