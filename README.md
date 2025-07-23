@@ -16,10 +16,11 @@ Este curso tem como objetivo apresentar os fundamentos do terminal Linux e ensin
 
 ## 📁 Estrutura do Repositório
 
+```bash
 📦 bash-cron-minicurso/
-    ├── materiais/ # Apostila, guias, tabelas de referência
-    ├── scripts/ # Exemplos de scripts Bash usados nas aulas
-    └── README.md # Este arquivo
+├── materiais/      # Apostila, guias, tabelas de referência
+├── scripts/        # Exemplos de scripts Bash usados nas aulas
+└── README.md       # Este arquivo
 
 
 ---
@@ -70,15 +71,14 @@ Este curso tem como objetivo apresentar os fundamentos do terminal Linux e ensin
     materiais/: apostilas e slides
 
 3. Teste os scripts com:
-
+```bash
 chmod +x nome_do_script.sh
 ./nome_do_script.sh
 
 💡 Requisitos
 
-    Sistema operacional Linux (ou WSL no Windows)
-
-    Editor de texto (como VSCode, nano ou vim)
+    - Sistema operacional Linux (ou WSL no Windows)
+    - Editor de texto (como VSCode, nano ou vim)
 
 📎 Recursos úteis
 
