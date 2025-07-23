@@ -73,7 +73,7 @@ Este curso tem como objetivo apresentar os fundamentos do terminal Linux e ensin
 3. Teste os scripts com:
 ```bash
 chmod +x nome_do_script.sh
-./nome_do_script.sh
+./nome_do_script.sh ```
 
 💡 Requisitos
 
