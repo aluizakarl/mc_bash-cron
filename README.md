@@ -21,7 +21,7 @@ Este curso tem como objetivo apresentar os fundamentos do terminal Linux e ensin
 ├── materiais/      # Apostila, guias, tabelas de referência
 ├── scripts/        # Exemplos de scripts Bash usados nas aulas
 └── README.md       # Este arquivo
-
+```
 
 ---
 
@@ -62,25 +62,35 @@ Este curso tem como objetivo apresentar os fundamentos do terminal Linux e ensin
 ## 🚀 Como Usar este Material
 
 1. Clone o repositório:
-  git clone https://github.com/seu-usuario/bash-cron-minicurso.git
+
+```bash
+git clone https://github.com/seu-usuario/bash-cron-minicurso.git
+```
 
 2. Explore os diretórios:
 
-    scripts/: scripts Bash prontos para rodar
-
-    materiais/: apostilas e slides
+```bash
+scripts/     # Scripts Bash prontos para rodar
+materiais/   # Apostilas e slides
+```
 
 3. Teste os scripts com:
+
 ```bash
 chmod +x nome_do_script.sh
-./nome_do_script.sh ```
+./nome_do_script.sh
+```
 
-💡 Requisitos
+---
 
-    - Sistema operacional Linux (ou WSL no Windows)
-    - Editor de texto (como VSCode, nano ou vim)
+## 💡 Requisitos
 
-📎 Recursos úteis
+- Sistema operacional Linux (ou WSL no Windows)
+- Editor de texto (como VSCode, nano ou vim)
+
+---
+
+## 📎 Recursos úteis
 
 - [Crontab Guru](https://crontab.guru) — Visualizador interativo que ajuda a entender e criar expressões `cron`.
 - [GNU Bash Manual](https://www.gnu.org/software/bash/manual/) — Documentação oficial do Bash com explicações completas sobre sintaxe e comandos.
@@ -89,7 +99,10 @@ chmod +x nome_do_script.sh
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) — Coletânea de dicas e boas práticas para uso avançado do terminal.
 - [TLDR Pages](https://tldr.sh/) — Versões resumidas e práticas das páginas de manual (`man`) dos comandos Linux.
 
-✍️ Autoria
+---
 
-Este minicurso foi desenvolvido por Ana Luiza Martins Karl, professora assistente do curso de Análise e Desenvolvimento de Sistemas da UNIFESO, com o objetivo de introduzir os alunos à automação de processos em ambiente Linux. A organização desse minicurso foi otimizada com ajuda das ferramentas de inteligência artificial Perplexity e ChatGPT.
+## ✍️ Autoria
 
+Este minicurso foi desenvolvido por **Ana Luiza Martins Karl**, professora assistente do curso de Análise e Desenvolvimento de Sistemas da **UNIFESO**, com o objetivo de introduzir os alunos à automação de processos em ambiente Linux.
+
+A organização deste material foi otimizada com a ajuda das ferramentas de inteligência artificial **Perplexity** e **ChatGPT**.
