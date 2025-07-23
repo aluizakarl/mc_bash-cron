@@ -64,6 +64,8 @@ Este curso tem como objetivo apresentar os fundamentos do terminal Linux e ensin
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/bash-cron-minicurso.git
+
+
 2. Explore os diretórios:
 
     scripts/: scripts Bash prontos para rodar
@@ -74,6 +76,7 @@ Este curso tem como objetivo apresentar os fundamentos do terminal Linux e ensin
 ```bash
 chmod +x nome_do_script.sh
 ./nome_do_script.sh
+
 
 💡 Requisitos
 
