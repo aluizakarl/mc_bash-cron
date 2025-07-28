@@ -24,7 +24,7 @@ Este curso tem como objetivo apresentar os fundamentos do terminal Linux e ensin
 ```
 
 ---
-## ⚠️ Material de apoio no Notion atualizado: [bit.ly/notionBash](bit.ly/notionBash)
+### ⚠️ Material de apoio no Notion atualizado: [bit.ly/notionBash](bit.ly/notionBash)
 
 ---
 
