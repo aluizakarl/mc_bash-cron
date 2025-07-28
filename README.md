@@ -1,6 +1,6 @@
 # 🐧 Automatização de Tarefas com Bash e Cron Jobs
 
-Minicurso prático para estudantes de Análise e Desenvolvimento de Sistemas, com foco em automação de tarefas no Linux usando scripts Bash e agendamentos com `cron`.
+Minicurso prático para estudantes de Análise e Desenvolvimento de Sistemas, com foco em automação de tarefas no Linux usando scripts `Bash` e agendamentos com `cron`.
 
 ---
 
@@ -24,6 +24,7 @@ Este curso tem como objetivo apresentar os fundamentos do terminal Linux e ensin
 ```
 
 ---
+## ⚠️ Material de apoio no Notion atualizado: bit.ly/notionBash
 
 ## 🧠 Conteúdo Programático
 
